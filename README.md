@@ -13,4 +13,4 @@
 ![img](./gambar/hapus.png)
 ![img](./gambar/setelah%20di%20hapus.png)
 
-# di atas adalah contoh crud sederhana edit data dan hapus data
+# di atas adalah contoh crud sederhana edit data dan hapus data# update 
