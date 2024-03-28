@@ -3,10 +3,12 @@
 ![img](./gambar/menu%20home.png)
 <br>
 * menu edit data dan setelah di edit
-![img](./gambar/menu%20edit%20data.png)
+  
+![img](./gambar/menu_edit.png)
 <br>
 * setelah di edit
-![img](./gambar/hasil%20setelah%20di%20edit.png)
+  
+![img](./gambar/hasil_edit.png)
 <br>
 
 * menu hapus di sini ada alert sebelum di hapus agar memastikan bahwa file yang di hapus itu benar
